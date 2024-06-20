@@ -1,0 +1,85 @@
+.bannerimg{
+	width: 678rpx;
+	height: 315rpx;
+	border-radius: 20rpx;
+}
+.topviewimg{
+	width: 750rpx;
+	height: 300rpx;
+	z-index: 1;
+	position: absolute;
+	top: 0rpx;
+}
+.shouyyetx{
+	font-size: 50rpx;
+	color:#16805A;
+	font-weight: bold;
+}
+
+.menus{
+	width: 686rpx;
+	height: 80rpx;
+	margin-top: 32rpx;
+	border-radius: 100rpx;
+	background-image: url(http://shandongtibohui.zsyflive.com/profile/muyetong2/menus.png);
+	background-size: 100% 100%;
+	padding:0rpx 20rpx;
+	color: #327441;
+	font-weight: bold;
+}
+
+.typeviewqq1{
+	width:148rpx;
+	height: 148rpx;
+	background-image: url(http://shandongtibohui.zsyflive.com/profile/muyetong2/hongse1.png);
+	background-size: 100% 100%;
+	padding-left: 22rpx;
+	padding-top: 13rpx;
+}
+.typeviewqq2{
+	width:148rpx;
+	height: 148rpx;
+	background-image: url(http://shandongtibohui.zsyflive.com/profile/muyetong2/lvse1.png);
+	background-size: 100% 100%;
+	padding-left: 22rpx;
+	padding-top: 13rpx;
+}
+.typeviewqq3{
+	width:148rpx;
+	height: 148rpx;
+	background-image: url(http://shandongtibohui.zsyflive.com/profile/muyetong2/lanse1.png);
+	background-size: 100% 100%;
+	padding-left: 22rpx;
+	padding-top: 13rpx;
+}  
+.typeviewqq4{
+	width:148rpx;
+	height: 148rpx;
+	background-image: url(http://shandongtibohui.zsyflive.com/profile/muyetong2/zongse1.png);
+	background-size: 100% 100%;
+	padding-left: 22rpx;
+	padding-top: 13rpx;
+}
+.typename{
+	font-size: 25rpx;
+	color: white;
+}
+.numjiajia{
+	font-size: 39rpx;
+	font-weight: bold;
+	color: white;
+}
+.zaixianqiye{
+	font-size:20rpx;
+	color: white;
+}
+.righticon{
+	width: 35rpx;
+	height: 35rpx;
+}
+.adimg{
+	width: 157rpx;
+	height: 60rpx;
+	margin-right: 15rpx;
+	border-radius: 15rpx;
+}

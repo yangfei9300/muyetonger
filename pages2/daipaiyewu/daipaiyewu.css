@@ -1,0 +1,46 @@
+page{
+	background-color: #f5f5f5;
+}
+.topimg{
+	width: 750rpx;
+	height: 400rpx;
+}
+.viewmenu1{
+	width: 350rpx;
+	height: 150rpx;
+	background-color: bisque;
+	margin-top: 20rpx;
+	border-radius: 15rpx;
+	text-align: center;
+	line-height: 150rpx;
+}
+.titlevi{
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.viewitem{
+	width:700rpx;
+	margin:25rpx 25rpx 0rpx 25rpx;
+	background-color: white;
+	padding:25rpx;
+	border-radius: 15rpx;
+}
+.atgview{
+	background-color: rgb(33, 183, 131,0.5);
+	font-size: 25rpx;
+	text-align: center;
+	font-weight: bold;
+	padding:0rpx 10rpx;
+	line-height: 35rpx;
+	color: #ffffff;
+}
+.boda{
+	color: #5193ff;
+}
+.jiahoa{
+	position: fixed;
+	bottom: 150rpx;
+	right: 50rpx;
+	border-radius: 50%;
+	background-color: white;
+}

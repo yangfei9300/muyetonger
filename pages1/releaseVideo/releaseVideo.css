@@ -1,0 +1,21 @@
+.jiahoa{
+	position: fixed;
+	bottom: 150rpx;
+	right: 50rpx;
+	border-radius: 50%;
+	background-color: white;
+}  
+.deltxt{
+	font-size: 30rpx;
+	position: absolute;
+	top: 10rpx;
+	right: 10rpx;
+	background-color: aqua;
+	border-radius: 10rpx;
+	padding:0rpx 10rpx;
+	color: red;
+	font-weight: bold;
+	font-size: 25rpx;
+	text-align: center;
+	line-height: 35rpx;
+}

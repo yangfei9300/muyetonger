@@ -1,0 +1,20 @@
+.titlevi{
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.viewitem{
+	width:700rpx;
+	margin:25rpx 25rpx 0rpx 25rpx;
+	background-color: white;
+	padding:25rpx;
+	border-radius: 15rpx;
+}
+.atgview{
+	background-color: rgb(33, 183, 131,0.5);
+	font-size: 25rpx;
+	text-align: center;
+	font-weight: bold;
+	padding:0rpx 10rpx;
+	line-height: 35rpx;
+	color: #ffffff;
+}

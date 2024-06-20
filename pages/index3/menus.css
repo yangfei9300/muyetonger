@@ -1,0 +1,138 @@
+page{
+	background-color: #f5f5f5;
+}
+.topviewimg{
+	width: 750rpx;
+	position: absolute;
+	top: 0rpx;
+}
+.sousuoview{
+	width: 650rpx;
+	height:50rpx;
+	background-color: white;
+	border-radius: 100rpx;
+}
+.pltxt{
+	font-size: 25rpx;
+	line-height: 50rpx;
+	padding-left: 20rpx;
+	text-align: center;
+}
+
+.menus{
+	width: 686rpx;
+	height: 80rpx;
+	margin-top: 32rpx;
+	border-radius: 100rpx;
+	background-image: url(http://shandongtibohui.zsyflive.com/profile/muyetong2/menus.png);
+	background-size: 100% 100%;
+	padding:0rpx 10rpx;
+	color: #327441;
+	font-weight: bold;
+	z-index: 1000;
+	font-size: 30rpx;
+	margin:0rpx 40rpx;
+}
+
+.menuxselview{
+	background-image: url(http://shandongtibohui.zsyflive.com/profile/muyetong2/guanggaowei.png);
+	background-size: 100% 100%;
+	/* background-color: red; */
+	border-radius: 100rpx;
+	font-size: 25rpx;
+	z-index: 11111111;
+	width: 140rpx;
+	height: 50rpx;
+	box-shadow: darkgrey 0px 0px 20rpx 5rpx;
+	text-align: center;
+	line-height: 50rpx;
+}
+.menuxselview1{
+	background-size: 100% 100%;
+	/* background-color: red; */
+	border-radius: 100rpx;
+	font-size: 25rpx;
+	z-index: 11111111;
+	width: 140rpx;
+	height: 50rpx;
+	text-align: center;
+	line-height: 50rpx;
+}
+.contentview{
+	width: 680rpx;
+	/* height: 866rpx; */
+	background-color: white;
+	z-index: 5500;
+	border-radius: 20rpx;
+	padding:20rpx;
+	margin:30rpx 40rpx 0rpx 40rpx;
+}
+.leftimg{
+	width: 200rpx;
+	height: 145rpx;
+	background-color: #327441;
+	border-radius: 10rpx;
+}
+.cenline{
+	width: 627rpx;
+	height: 1rpx;
+	background-color: #327441;
+	margin:20rpx 0rpx;
+}
+
+.swimff{
+	width: 670rpx;
+	height: 278rpx;
+	border-radius: 15rpx;
+	
+}
+.swioead{
+	margin-left: 40rpx;
+	margin-bottom: 20rpx;
+}
+.swioead1{
+	margin-left:20rpx;
+	margin-bottom: 20rpx;
+}
+.ppimg1{
+	width: 688rpx;
+	height: 318rpx;
+	background-color: #327441;
+	border-radius: 15rpx;
+	margin-left: 15rpx;
+}
+.goodimg{
+	width: 151rpx;
+	height: 151rpx;
+	background-color: #327441;
+	border-radius: 15rpx;
+}
+.dianhuaa{
+	color:   #06BAF1;
+	font-weight: bold;
+	font-size: 25rpx;
+}
+
+.viewss{
+	width: 500rpx;
+	/* height: 250rpx; */
+	background-color:    #F2F2F1;
+	padding:30rpx 0rpx;
+	border-radius: 20rpx;
+}
+.dianhuas{
+	color: #00C5EF;
+	font-weight: bold;
+}
+.w200h{
+	width: 170rpx;
+	height: 1rpx;
+	background-color:#6C6E6E;
+}
+.hyico{
+	width: 30rpx;
+	height: 30rpx;
+	border-radius: 50%;
+	background-color: #6C6E6E;
+	margin:0rpx 15rpx;
+}

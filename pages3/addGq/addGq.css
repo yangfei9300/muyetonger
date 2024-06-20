@@ -1,0 +1,13 @@
+.querenbtn{
+	width: 500rpx;
+	height: 70rpx;
+	/* background-image: url(/static/#61C0AE); */
+	background-color: #61C0AE;
+	background-size: 100% 100%;
+	border-radius: 20rpx;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	line-height: 70rpx;
+	margin-top: 35rpx;
+}

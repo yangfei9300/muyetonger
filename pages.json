@@ -1,0 +1,235 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "木业通",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index2/index2",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index3/index3",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index4/index4",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages1/menus/menus",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/userInfoSet/userInfoSet",
+			"style" : 
+			{
+				"navigationBarTitleText" : "资料设置",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/conmmonAdd/conmmonAdd",
+			"style" : 
+			{
+				"navigationBarTitleText" : "企业入驻",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/addJianli/addJianli",
+			"style" : 
+			{
+				"navigationBarTitleText" : "上传简历",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/addZhaopin/addZhaopin",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加招聘信息",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/qiuzhiliebiao/qiuzhiliebiao",
+			"style" : 
+			{
+				"navigationBarTitleText" : "求职信息",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/releaseVideo/releaseVideo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我发布的视频",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/xinwenVIew/xinwenVIew",
+			"style" : 
+			{
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/xinwenList/xinwenList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "新闻列表",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages1/qiyeList/qiyeList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "企业列表",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages2/qgscfb/qgscfb",
+			"style" : 
+			{
+				"navigationBarTitleText" : "全国市场分布",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages2/gxptAll/gxptAll",
+			"style" : 
+			{
+				"navigationBarTitleText" : "供需发布平台",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages2/gqInfo/gqInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "供求详情",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages2/zpAll/zpAll",
+			"style" : 
+			{
+				"navigationBarTitleText" : "招聘信息",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages2/zpInfo/zpInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "招聘详情",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages2/showJl/showJl",
+			"style" : 
+			{
+				"navigationBarTitleText" : "简历",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages2/daipaiyewu/daipaiyewu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "市场代跑",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages3/addShichangdaipai/addShichangdaipai",
+			"style" : 
+			{
+				"navigationBarTitleText" : "发布任务",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages3/addGq/addGq",
+			"style" : 
+			{
+				"navigationBarTitleText" : "发布供求信息",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages3/videoInfo/videoInfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "视频详情",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages3/addVideo/addVideo",
+			"style" : 
+			{
+				"navigationBarTitleText" : "上传视频",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages3/webview/webview",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages3/myRenwu/myRenwu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我发布的任务",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages3/kefus/kefus",
+			"style" : 
+			{
+				"navigationBarTitleText" : "平台客服",
+				"enablePullDownRefresh" : false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "木业通",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
